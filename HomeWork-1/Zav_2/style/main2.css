@@ -1,0 +1,23 @@
+span {
+    color: brown;
+    font-size: 45px;
+    background-color: rgba(128, 128, 128, 0.195);
+}
+
+h1 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+
+.Bl {
+    color: black;
+    font-size: 45px;
+    background-color: rgba(128, 128, 128, 0.196);
+}
